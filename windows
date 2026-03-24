@@ -1,5 +1,5 @@
 ! Title: tdiea234 ad filter windows
-! Version: 1.0.4
+! Version: 1.0.7
 ! description: ad filter windows
 
 ! naver_sports
@@ -11,6 +11,7 @@ m.entertain.naver.com##.MainNews_comp_article_main_news__VUN1V
 m.entertain.naver.com##.Promotion_article_promotion__jaw7A, .Promotion_type_bar__mouuY
 m.entertain.naver.com##.AsideBanner_comp_aside_banner__SxRMD
 ! Soop
+play.sooplive.com##.adballoon_icon
 play.sooplive.com###ad_video
 play.sooplive.com##.text_output
 play.sooplive.com##.promotion_area
