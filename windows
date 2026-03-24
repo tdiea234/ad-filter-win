@@ -1,5 +1,5 @@
 ! Title: tdiea234 ad filter windows
-! Version: 1.0.3
+! Version: 1.0.4
 ! description: ad filter windows
 
 ! naver_sports
@@ -10,3 +10,35 @@ m.sports.naver.com##.AsideBanner_comp_aside_banner__SxRMD
 m.entertain.naver.com##.MainNews_comp_article_main_news__VUN1V
 m.entertain.naver.com##.Promotion_article_promotion__jaw7A, .Promotion_type_bar__mouuY
 m.entertain.naver.com##.AsideBanner_comp_aside_banner__SxRMD
+! Soop
+play.sooplive.com###ad_video
+play.sooplive.com##.text_output
+play.sooplive.com##.promotion_area
+play.sooplive.com##.promotion_area_left
+play.sooplive.com##.promotion_area_right
+vod-player.sooplive.com/creatives/media/* 
+sooplive.com###list-section > div.Advertising_Output_Area.left:first-child
+my.sooplive.com##.catch-story.title-wrap
+my.sooplive.com##.slide-catch-story
+my.sooplive.com##.slide-catch
+my.sooplive.com##.catch.title-wrap
+play.sooplive.com###player_area > div.htmlplayer_wrap:first-child > div.htmlplayer_content > div.player_item_list.on.pip:last-child
+sooplive.com###div_game_banner
+windroloxy.sooplive.com/v101/hls/creatives/media/
+vod-player001.sooplive.com/v101/hls/creatives/media/*
+vod-player002.sooplive.com/v101/hls/creatives/media/*
+vod-player003.sooplive.com/v101/hls/creatives/media/*
+sooplive.com###main > div.dept2_menu_wrap:first-child
+sooplive.com###container > div.list_detail:first-child
+vod.sooplive.com##.adballoon_icon
+vod-player001.sooplive.com
+vod-player002.sooplive.com
+vod-player003.sooplive.com
+main-player.sooplive.com
+img-display.sooplive.com
+sooplive.com##.click_area
+sooplive.com##.left.a_d_left.Advertising_Output_Area
+sooplive.com##.Advertising_Output_Area
+ch.sooplive.com###side-layer
+sooplive.com###layout_container__S7ueh > div.home_innerContainerWrapper__WSy5r:last-child > div.home_innerContainer__eEPos > div.FloatingBanner_floatingBannerWrapper__cdLt4.home_floatingBannerMain__FMgR1:nth-child(7)
+sooplive.com###layout_container__S7ueh > div.home_innerContainerWrapper__WSy5r:last-child > div.home_innerContainer__eEPos > div.FloatingBanner_floatingBannerWrapper__cdLt4.home_floatingBannerMain__FMgR1:nth-child(11)
