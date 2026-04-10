@@ -1,5 +1,5 @@
 ! Title: tdiea234 ad filter windows
-! Version: 1.0.7
+! Version: 1.0.9
 ! description: ad filter windows
 
 ! naver_sports
@@ -43,3 +43,5 @@ sooplive.com##.Advertising_Output_Area
 ch.sooplive.com###side-layer
 sooplive.com###layout_container__S7ueh > div.home_innerContainerWrapper__WSy5r:last-child > div.home_innerContainer__eEPos > div.FloatingBanner_floatingBannerWrapper__cdLt4.home_floatingBannerMain__FMgR1:nth-child(7)
 sooplive.com###layout_container__S7ueh > div.home_innerContainerWrapper__WSy5r:last-child > div.home_innerContainer__eEPos > div.FloatingBanner_floatingBannerWrapper__cdLt4.home_floatingBannerMain__FMgR1:nth-child(11)
+! YGOSU
+ygosu.com##.notice, .first_notice
