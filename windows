@@ -6,10 +6,12 @@
 m.sports.naver.com##.MainNews_comp_article_main_news__VUN1V
 m.sports.naver.com##.Promotion_article_promotion__jaw7A, .Promotion_type_bar__mouuY
 m.sports.naver.com##.AsideBanner_comp_aside_banner__SxRMD
+
 ! naver_entertain
 m.entertain.naver.com##.MainNews_comp_article_main_news__VUN1V
 m.entertain.naver.com##.Promotion_article_promotion__jaw7A, .Promotion_type_bar__mouuY
 m.entertain.naver.com##.AsideBanner_comp_aside_banner__SxRMD
+
 ! Soop
 play.sooplive.com##.adballoon_icon
 play.sooplive.com###ad_video
@@ -42,12 +44,27 @@ sooplive.com##.left.a_d_left.Advertising_Output_Area
 sooplive.com##.Advertising_Output_Area
 ch.sooplive.com###side-layer
 sooplive.com##.FloatingBanner_floatingBannerWrapper__cdLt4, .home_floatingBannerMain__FMgR1
+sooplive.com##.__soopui__LayerStack-module__popup___nbjgd
+
 ! YGOSU
 ygosu.com##.notice, .first_notice
+ygosu.com##.ygosu_banner
+
+! FMKorea
+fmkorea.com##.content_widget
+fmkorea.com###sidebar
+
 ! YouTube
 youtube.com###page-header-banner
 youtube.com###shopping-timely-shelf
+youtube.com##.ytp-paid-content-overlay
+youtube.com##.ytp-paid-content-overlay
+youtube.com###middle-row
+youtube.com##.ytp-fullscreen-grid
+
 ! MLBPark
 mlbpark.donga.com##tr:has(td:first-child:has-text(공지))
-hulk24.com##.contents_box_left
-hulk24.com##.right_fix_zone
+mlbpark.donga.com##.coupang_cont
+mlbpark.donga.com##[id^='naver_cont']
+mlbpark.donga.com##tr:has(td:has-text(담당자)), tr:has(td:has-text(포인트관리자))
+mlbpark.donga.com##.team_rank_wrap
