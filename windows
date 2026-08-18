@@ -1,5 +1,5 @@
 ! Title: tdiea234 ad filter windows
-! Version: 1.2.1
+! Version: 1.2.2
 ! description: ad filter windows
 
 ! naver_sports
@@ -75,5 +75,5 @@ tistory.com##[href^="https://s.click.aliexpress.com/"]
 mlbpark.donga.com##tr:has(td:first-child:has-text(공지))
 mlbpark.donga.com##.coupang_cont
 mlbpark.donga.com##[id^='naver_cont']
-mlbpark.donga.com##tr:has(td:has-text(담당자)), tr:has(td:has-text(포인트관리자), tr:has(td:has-text(엠팍제휴팀))
+mlbpark.donga.com##tr:has(td:has-text(담당자)), tr:has(td:has-text(포인트관리자)), tr:has(td:has-text(엠팍제휴팀))
 mlbpark.donga.com##.team_rank_wrap
